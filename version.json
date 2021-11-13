@@ -1,9 +1,5 @@
 {
-    "recent": {
-            "tags": ["alpha"],
-            "name": "Morst",
-            "versionNr": "0.0.1"
-    },
+    "recent": "0.0.1",
     "history": {
         "0.0.1": {
             "tags": ["alpha"],
